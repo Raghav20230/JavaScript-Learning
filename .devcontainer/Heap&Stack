@@ -1,0 +1,14 @@
+//there are two types  of memory 
+//Stack Memory[Primitive Type]=> Primitive data types and references,Size is known at compile time,Fixed memory allocated	
+//Heap memory [Non Primitive Type]=>Objects and functions,Size is known at run time,No limit for object memory
+
+//Stack=>static data includes primitive values like strings, numbers, boolean, null, and undefined.
+
+//in stack jb bhe koi variable declare kra h uska koi copy milta h
+//heap main milta h refrence agar kuch bhe change krege toh original value main change hota h 
+
+let myYoutubename = "Raghav@121.com"
+let anotherYname = myYoutubename
+anotherYname ="chaiwithcode"
+console.log(anotherYname)
+console.log(myYoutubename)
