@@ -1,13 +1,13 @@
-// const score=400
-// console.log(score);
+const score=400
+console.log(score);
 
-// const balance =new Number(100)
-// console.log(balance);
+const balance =new Number(100)
+console.log(balance);
 
-// console.log(balance.toString());
+console.log(balance.toString());
 
-// console.log(balance.toString().length);
-// console.log(balance.toFixed(2));
+console.log(balance.toString().length);
+console.log(balance.toFixed(2));// fixed last 2 digit fix kr deta h ex 100.00
 
 // const othernumber = 234.988
 // console.log(othernumber.toPrecision(1))
@@ -24,11 +24,11 @@
 // console.log(Math.round(5.5));
 // console.log(Math.ceil(5.5));// its means top wala value ka round off kregga
 // console.log(Math.floor(5.5)); //its means down wala value ka round off kregga
-console.log(Math.random());// 0 and 1 main value dega math.random
-console.log(Math.random()*10) ;
-console.log((Math.random()*10) + 1);
-console.log(Math.floor(Math.random()*10) + 1);
-const min = 10
-const max = 20
-console.log(math.random() * (max - min +1))
+// console.log(Math.random());// 0 and 1 main value dega math.random
+// console.log(Math.random()*10) ;
+// console.log((Math.random()*10) + 1);
+// console.log(Math.floor(Math.random()*10) + 1);
+// const min = 10
+// const max = 20
+// console.log(math.random() * (max - min +1))
 
