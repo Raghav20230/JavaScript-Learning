@@ -1,4 +1,4 @@
-const mySym = Symbol("key1")//iq=>ek symobol lo aur usse object main add kr ke dikho  /symbol ko use krna h as a key toh direct use ni kr sakte 
+const mySym = Symbol("key1")//interviewq=>ek symobol lo aur usse object main add kr ke dikho  /symbol ko use krna h as a key toh direct use ni kr sakte 
 
 const jsUser = {
     name :"Raghav",
